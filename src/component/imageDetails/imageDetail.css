@@ -1,0 +1,22 @@
+.image-wrapper{
+    margin-top: 40px;
+    padding: 20px;
+    max-width: 1024px;
+    background-color: #451572;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.img>img{
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #e398e3;
+}
+.details{
+    color: #ffffff;
+    margin-right: 40px;
+}
+.details p{
+    font-size: 18px;
+}
